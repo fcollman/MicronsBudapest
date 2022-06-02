@@ -14,8 +14,6 @@ https://global.daf-apis.com/info
 dataset specific page
 https://global.daf-apis.com/info/datastack/minnie65_phase3_v1
 
-dash apps link
-https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1
 
 # Some links
 
@@ -33,6 +31,17 @@ https://neuromancer-seung-import.appspot.com/?json_url=https://global.daf-apis.c
 
 BC-MC-PT:
 https://neuromancer-seung-import.appspot.com/?json_url=https://global.daf-apis.com/nglstate/api/v1/5382411193942016
+
+# dash app links
+
+dash apps link
+
+https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1
+
+
+example NP cell connectivity link
+
+https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1/apps/connectivity/?anno-id=%22864691136990003861%22&id-type=%22root_id%22&live-query-toggle=[1]&cell-type-table-dropdown=%22allen_subclass_type_svm_v0%22&datastack=%22minnie65_phase3_v1%22
 
 # Microns binder repo
 contains tutorials/examples
