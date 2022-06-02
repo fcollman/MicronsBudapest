@@ -2,6 +2,8 @@
 https://forms.gle/Fppr3PmpyfUthziJA
 If you cannot access the dataset, please send us your google account email via this form
 
+# zoom link
+https://us06web.zoom.us/j/82595717421
 
 # Some useful sites
 
