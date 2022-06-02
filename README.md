@@ -5,6 +5,9 @@ If you cannot access the dataset, please send us your google account email via t
 # zoom link
 https://us06web.zoom.us/j/82595717421
 
+# if you logged in but still don't have access
+https://globalv1.daf-apis.com/sticky_auth/api/v1/tos/2/accept
+
 # Some useful sites
 
 global info service 
