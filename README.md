@@ -14,9 +14,12 @@ https://global.daf-apis.com/info/datastack/minnie65_phase3_v1
 
 # Some links
 
-Links for Agnes
+Links from Agnes
+
 Location of an np cell:293973, 193608, 22434
+
 Location of an wide arbour basket:184190, 217249, 22538
+
 Location of an t-shape martinotti:167996, 203485, 21045
 
 BC-MC-PT:
