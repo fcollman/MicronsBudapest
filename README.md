@@ -46,6 +46,10 @@ example NP cell connectivity link
 
 https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1/apps/connectivity/?anno-id=%22864691136990003861%22&id-type=%22root_id%22&live-query-toggle=[1]&cell-type-table-dropdown=%22allen_subclass_type_svm_v0%22&datastack=%22minnie65_phase3_v1%22
 
+column cell types dash app link
+
+https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1/apps/cell_type/?cell-type-table-menu=%22allen_v1_column_types_slanted%22&live-query-toggle=[1]&anno-id=%22%22&id-type=%22root_id%22&cell-type=%22%22&datastack=%22minnie65_phase3_v1%22
+
 # Microns binder repo
 contains tutorials/examples
 https://github.com/AllenInstitute/MicronsBinder
