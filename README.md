@@ -50,6 +50,10 @@ column cell types dash app link
 
 https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1/apps/cell_type/?cell-type-table-menu=%22allen_v1_column_types_slanted%22&live-query-toggle=[1]&anno-id=%22%22&id-type=%22root_id%22&cell-type=%22%22&datastack=%22minnie65_phase3_v1%22
 
+this lets you make this...generated "column cell type" link
+
+https://neuromancer-seung-import.appspot.com/?json_url=https://global.daf-apis.com/nglstate/api/v1/5419874952151040
+
 # Microns binder repo
 contains tutorials/examples
 https://github.com/AllenInstitute/MicronsBinder
