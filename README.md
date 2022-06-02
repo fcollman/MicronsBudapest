@@ -15,9 +15,9 @@ https://global.daf-apis.com/info/datastack/minnie65_phase3_v1
 # Some links
 
 Links for Agnes
-np:293973, 193608, 22434
-wide arbour basket:184190, 217249, 22538
-t-shape martinotti:167996, 203485, 21045
+Location of an np cell:293973, 193608, 22434
+Location of an wide arbour basket:184190, 217249, 22538
+Location of an t-shape martinotti:167996, 203485, 21045
 
 BC-MC-PT:
 https://neuromancer-seung-import.appspot.com/?json_url=https://global.daf-apis.com/nglstate/api/v1/5382411193942016
