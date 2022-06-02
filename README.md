@@ -14,6 +14,9 @@ https://global.daf-apis.com/info
 dataset specific page
 https://global.daf-apis.com/info/datastack/minnie65_phase3_v1
 
+dash apps link
+https://minniev1.microns-daf.com/dash/datastack/minnie65_phase3_v1
+
 # Some links
 
 Links from Agnes
